@@ -24,6 +24,10 @@ func main() {
 	}
 
 	jim.updateName("Jimmy")
+
+	// or
+	// jimPointer := &jim;
+	// jimPointer.updateName("Jimmy")
 	jim.print()
 }
 
