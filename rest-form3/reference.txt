@@ -1,0 +1,5 @@
+https://www.reddit.com/r/golang/comments/k9tk1h/golang_best_practices_api_examples/
+https://www.scaledrone.com/blog/creating-an-api-client-in-go/
+https://medium.com/codex/make-an-http-get-post-request-in-golang-83435ae3ff70
+https://levelup.gitconnected.com/consuming-a-rest-api-using-golang-b323602ba9d8
+https://github.com/go-resty/resty/blob/master/client.go
